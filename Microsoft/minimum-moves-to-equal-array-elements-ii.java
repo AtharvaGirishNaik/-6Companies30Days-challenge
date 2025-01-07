@@ -1,3 +1,6 @@
+
+https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/solutions/2215782/visual-explanation-interview-tips-java
+
 class Solution {
     public int minMoves2(int[] nums) {
 	Arrays.sort(nums);
